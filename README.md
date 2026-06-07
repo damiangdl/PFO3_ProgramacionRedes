@@ -48,4 +48,4 @@ detrás de un **balanceador de carga**, servidores de recepción que publican en
 mensajes (RabbitMQ)**, un cluster de **workers con pool de hilos** y **almacenamiento
 distribuido** (PostgreSQL y S3).
 
-![Diagrama del sistema](images/diagrama.png)
+![Diagrama del sistema](src/diagrama.png)
